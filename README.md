@@ -2,7 +2,7 @@
 ## Overview
 Complete two Tableau Trailhead modules asynchronously and submit proof of completion plus a simple Tableau Public visualization via GitHub.
 
-[Link to Tableau Public viz](https://public.tableau.com/views/MyFirstVizonTableauPublic_17648063780250/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
+**Link to Tableau Public Viz:** [Tableau Public viz](https://public.tableau.com/views/MyFirstVizonTableauPublic_17648063780250/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
 ### Completion of Data Storytelling with Tableau Public Badge 
 ![Badge One](images/datastorytelling_with_tableaupublic.png)
