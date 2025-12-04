@@ -5,13 +5,13 @@ Complete two Tableau Trailhead modules asynchronously and submit proof of comple
 [Link to Tableau Public viz](https://public.tableau.com/views/MyFirstVizonTableauPublic_17648063780250/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
 ### Completion of Data Storytelling with Tableau Public Badge 
-![Badge One](images\datastorytelling_with_tableaupublic.png)
+![Badge One](images/datastorytelling_with_tableaupublic.png)
 
 ### Completion of The Tableau Data Model Badge 
-![Badge two](images\tableau_data_model.png)
+![Badge two](images/tableau_data_model.png)
 
 ### My Tableau Public viz 
-![screenshot of viz](images\tableaupublic_visualization.png)
+![screenshot of viz](images/tableaupublic_visualization.png)
 
 #### Written Reflection 
 
